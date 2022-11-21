@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InventoryManagement</string>
+    <string name="edittexview">Company Name</string>
+</resources>
