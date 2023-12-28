@@ -1,0 +1,6 @@
+<resources>
+    <array name="user_types">
+        <item>Owner</item>
+        <item>Manager</item>
+    </array>
+</resources>
